@@ -93,8 +93,3 @@ This dashboard helps in:
 - Key columns.doc
 
 ---
-
-
-
-## Support
-If you found this project useful, please consider giving it a star
